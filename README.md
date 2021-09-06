@@ -12,4 +12,4 @@ accessibility which will be aided by the availability of data collected through 
 data collection platforms such as Digifarm in Kenya and Geofarmer launched in Colombia, 
 Ghana, Tanzania and Uganda.
 
-This project will be based on modellind a food security predictive model in Kenya
+This project will be based on modellind a food security predictive model in Kenya.
