@@ -14,8 +14,7 @@ acknowledgment of extra incentive inside the agri-food division (Noyes, 2014; Su
 Yang, 2014). The adoption of analytics in agriculture has been increasing consistently; its market 
 size is expected to grow from USD 585 million in 2018 to USD 1236 million by 2023, at a 
 Compound Annual Growth Rate (CAGR) of 16.2%.
-Kiambu has a population of 2,417,735 that’s expected to rise at a high growth rate in the next 
-decade. With shocks such as climate shocks and the latest COVID-19 pandemic food production 
+With shocks such as climate shocks and the latest COVID-19 pandemic food production 
 continues to decrease despite the plummeting food demand and unemployment rates keep rising. 
 As a result food prices will rise whereas household income continues to drop limiting a 
 household’s capacity to access food.
